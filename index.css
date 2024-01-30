@@ -3,7 +3,7 @@ p {
 }
 
 h1 {
-  background-image: url("<iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>");
+  background-image: url("https://giphy.com/embed/sULKEgDMX8LcI");
 /*     https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg"); */
   text-align: center;
   font-size: 100px;
