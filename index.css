@@ -10,7 +10,7 @@ p {
  h1 {
   text-align: center;
   font-size: 200px;
-   font-family: Helvetica;
+   font-family:  "Helvetica", sans-serif;
   color: white;
 
    /*   background-image: url("https://giphy.com/embed/sULKEgDMX8LcI"); */
